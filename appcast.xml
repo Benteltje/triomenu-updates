@@ -3,13 +3,13 @@
     <channel>
         <title>Trio Menu</title>
         <item>
-            <title>0.3.2</title>
-            <pubDate>Fri, 25 Sep 2026 15:57:45 +0200</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+            <title>0.3.3</title>
+            <pubDate>Sat, 26 Sep 2026 10:46:31 +0200</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://raw.githubusercontent.com/Benteltje/triomenu-updates/main/TrioMenu-0.3.2.dmg" length="2614755" type="application/octet-stream" sparkle:edSignature="5qDtIeLRIjf3D1KmhMImyGTuYEHFnFgm/7bZqHqzV55E6TbqzY/PeGwjlQE5kr7qVVDtvczTEZh0Xe29LTecDQ=="/>
+            <enclosure url="https://raw.githubusercontent.com/Benteltje/triomenu-updates/main/TrioMenu-0.3.3.dmg" length="2650880" type="application/octet-stream" sparkle:edSignature="5Vbc3EFTHa1rAIEsN7aqY+hqvCtxeeVPKpPW5P1T8jMV1eBXc+/NXCmOrhHkMS2MU9f6gVW+wAfj3NW8uWD6Cw=="/>
         </item>
     </channel>
 </rss>
